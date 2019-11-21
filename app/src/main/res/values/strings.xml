@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="colo">COLORES</string>
+    <string name="AC">AGREGAR COLOR</string>
+    <string name="MC">MOSTRAR COLOR</string>
+    <string name="ag">AGREGAR</string>
+    <string name="RE">REGISTRAR</string>
+    <string name="REG">REGRESAR</string>
+    <string name="MOS">MOSTRAR</string>
+    <string name="color">COLOR</string>
+</resources>
